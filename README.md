@@ -1,1 +1,2 @@
 # Privacy-Research-work
+The project was related to Privacy course research work. This research work done in a group of two people. The research was about finding Germany's and Pakistan's privacy legal background, privacy regulation, publication and public policies regarding personal data. Also in this research work we analyzed privacy and security aspects of Corona-Warn-App, possible attack scenario, and mitigation measures for the application.
